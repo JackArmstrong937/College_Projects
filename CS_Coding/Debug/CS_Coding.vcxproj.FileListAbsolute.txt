@@ -1,2 +1,0 @@
-D:\Personal_Programming\CS_Coding\Debug\CS_Coding.exe
-D:\Personal_Programming\CS_Coding\Debug\CS_Coding.pdb
