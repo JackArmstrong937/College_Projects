@@ -1,0 +1,2000 @@
+triangle 10 5 10.7835
+circle 1
+circle 4
+rectangle 7 15
+circle 6
+circle 1
+circle 6
+triangle 5 10 10.2083
+rectangle 5 12
+rectangle 10 3
+circle 2
+circle 6
+rectangle 8 20
+rectangle 5 11
+triangle 6 9 6.16553
+circle 2
+rectangle 5 11
+triangle 6 5 6.89223
+circle 3
+rectangle 4 15
+triangle 2 1 1.47363
+triangle 5 14 11.0456
+triangle 7 13 7.56991
+circle 6
+rectangle 2 20
+rectangle 1 11
+circle 10
+circle 2
+circle 8
+rectangle 9 13
+rectangle 7 17
+rectangle 2 19
+circle 2
+rectangle 5 3
+triangle 5 14 9.1174
+circle 5
+triangle 3 12 11.5916
+rectangle 6 8
+circle 8
+triangle 6 15 10.6561
+triangle 10 15 11.3218
+rectangle 8 14
+rectangle 7 10
+triangle 7 6 3.91929
+rectangle 3 6
+triangle 5 14 9.29642
+triangle 7 1 6.06995
+circle 7
+triangle 2 3 1.03235
+circle 1
+triangle 1 9 8.00154
+rectangle 7 10
+triangle 8 9 3.25029
+circle 3
+circle 3
+triangle 6 3 5.24851
+triangle 5 8 3.37288
+circle 7
+triangle 7 11 11.8581
+rectangle 3 9
+circle 10
+rectangle 9 6
+rectangle 7 19
+rectangle 10 11
+circle 3
+triangle 6 9 10.1901
+triangle 10 1 9.14765
+rectangle 8 4
+circle 7
+triangle 7 6 6.65402
+triangle 6 11 6.03423
+circle 3
+rectangle 2 18
+circle 2
+circle 9
+rectangle 8 1
+triangle 5 6 2.65939
+circle 6
+circle 1
+triangle 2 12 10.2054
+circle 8
+rectangle 4 10
+circle 10
+rectangle 2 20
+rectangle 3 4
+circle 1
+triangle 4 3 3.75556
+rectangle 7 14
+rectangle 8 20
+rectangle 6 4
+circle 4
+triangle 3 11 8.00251
+triangle 4 14 14.3575
+triangle 7 1 6.57363
+circle 5
+triangle 5 10 6.95669
+rectangle 6 13
+rectangle 4 16
+rectangle 8 11
+triangle 10 8 6.85444
+circle 10
+circle 7
+triangle 9 6 6.58363
+triangle 9 10 2.51928
+triangle 5 5 2.58819
+rectangle 5 9
+rectangle 3 14
+circle 6
+rectangle 2 10
+circle 9
+rectangle 4 6
+triangle 1 14 13.422
+rectangle 7 3
+rectangle 2 5
+circle 4
+rectangle 6 15
+triangle 2 15 13.1125
+circle 3
+triangle 8 3 8.19452
+rectangle 6 13
+circle 1
+triangle 7 15 10.9734
+circle 8
+triangle 5 15 15.2223
+circle 8
+triangle 2 3 2.36898
+triangle 4 8 6.1654
+triangle 9 4 9.05706
+rectangle 1 10
+circle 1
+circle 3
+rectangle 5 10
+circle 4
+circle 5
+triangle 10 6 6.63887
+rectangle 4 9
+triangle 6 1 5.16856
+triangle 8 4 7.5541
+triangle 7 3 4.85753
+rectangle 7 19
+triangle 7 13 6.43476
+rectangle 2 9
+rectangle 9 4
+circle 1
+triangle 6 9 5.54503
+circle 10
+triangle 8 2 6.11541
+triangle 2 11 10.2149
+rectangle 3 7
+rectangle 9 9
+circle 3
+circle 8
+triangle 7 4 7.10676
+circle 2
+triangle 7 2 7.07624
+rectangle 4 4
+rectangle 7 6
+triangle 7 8 1.03355
+rectangle 7 12
+circle 2
+rectangle 1 13
+circle 4
+triangle 3 6 5.71728
+circle 1
+rectangle 3 7
+triangle 8 6 6.49813
+triangle 3 11 8.15823
+circle 5
+rectangle 6 10
+circle 9
+triangle 9 13 13.184
+rectangle 5 18
+circle 9
+triangle 5 7 2.7953
+rectangle 3 8
+triangle 6 10 7.46353
+circle 8
+circle 4
+rectangle 1 20
+circle 2
+triangle 3 4 2.31092
+triangle 4 6 5.69882
+circle 8
+triangle 2 2 1.87788
+rectangle 2 5
+triangle 4 14 13.3886
+triangle 4 13 10.2067
+circle 3
+rectangle 1 4
+circle 2
+rectangle 8 17
+triangle 5 7 3.17046
+rectangle 3 2
+rectangle 2 15
+triangle 8 5 3.91913
+triangle 1 4 3.19619
+triangle 10 2 9.46917
+circle 7
+circle 3
+circle 9
+circle 10
+circle 6
+rectangle 1 15
+rectangle 8 19
+rectangle 2 18
+circle 8
+circle 1
+rectangle 6 13
+circle 7
+triangle 3 4 3.90363
+triangle 5 8 9.28482
+circle 6
+triangle 2 11 9.32174
+rectangle 5 10
+circle 6
+rectangle 10 14
+triangle 8 10 11.4339
+circle 2
+rectangle 9 18
+circle 10
+triangle 7 4 3.42649
+rectangle 10 13
+triangle 9 11 2.06672
+rectangle 2 17
+circle 5
+rectangle 8 15
+triangle 8 8 1.81125
+rectangle 3 6
+triangle 1 4 3.28372
+triangle 1 15 14.1
+triangle 9 10 8.96355
+triangle 6 3 5.19615
+circle 5
+triangle 6 2 4.51003
+circle 2
+rectangle 3 14
+circle 4
+triangle 1 7 6.00018
+rectangle 6 7
+circle 8
+rectangle 9 4
+rectangle 7 1
+circle 3
+triangle 9 12 8.97038
+circle 4
+circle 2
+rectangle 2 16
+circle 3
+triangle 2 1 1.23931
+circle 9
+triangle 6 12 10.6017
+triangle 10 14 11.2912
+rectangle 4 9
+circle 10
+circle 7
+circle 6
+triangle 8 5 3.01822
+circle 7
+triangle 7 12 5.41349
+triangle 4 5 1.84724
+triangle 2 15 14.3709
+circle 8
+triangle 3 8 5.88774
+triangle 2 15 13.8586
+rectangle 9 3
+rectangle 10 8
+triangle 9 11 8.33739
+rectangle 8 2
+circle 3
+triangle 4 9 5.30529
+circle 7
+rectangle 2 10
+circle 2
+triangle 10 5 9.35624
+triangle 9 7 2.11648
+circle 10
+rectangle 6 5
+triangle 5 8 3.37288
+rectangle 10 14
+triangle 3 13 11.0404
+circle 5
+rectangle 8 2
+triangle 3 2 1.16467
+triangle 5 7 3.41021
+rectangle 5 10
+triangle 3 13 11.2164
+triangle 6 12 12.4497
+rectangle 5 8
+circle 2
+rectangle 5 19
+circle 5
+circle 7
+circle 6
+rectangle 9 10
+circle 3
+rectangle 2 8
+rectangle 1 20
+triangle 2 1 2.14053
+circle 8
+circle 5
+rectangle 8 4
+triangle 1 12 11.1017
+circle 9
+circle 6
+triangle 5 6 3.44251
+rectangle 7 19
+rectangle 6 3
+rectangle 3 2
+rectangle 4 9
+circle 1
+triangle 3 15 12.0568
+rectangle 2 20
+rectangle 1 19
+rectangle 10 5
+triangle 8 4 6.85839
+triangle 7 15 14.4605
+triangle 10 7 9.47804
+triangle 9 8 8.0297
+circle 5
+circle 8
+triangle 5 8 8.10001
+triangle 2 2 0.694592
+triangle 2 1 1.6623
+rectangle 9 16
+triangle 5 9 4.23872
+rectangle 7 20
+circle 9
+circle 3
+rectangle 9 4
+triangle 5 6 1.74483
+triangle 2 13 12.5963
+circle 3
+triangle 1 15 14.2604
+triangle 8 15 14.9281
+circle 1
+rectangle 10 19
+triangle 6 8 8.57547
+triangle 6 14 9.71506
+rectangle 2 13
+triangle 4 2 3.18581
+rectangle 4 15
+circle 1
+circle 8
+rectangle 5 16
+circle 6
+circle 4
+rectangle 1 17
+circle 6
+triangle 4 4 0.558051
+circle 9
+circle 2
+circle 6
+circle 4
+circle 3
+rectangle 3 18
+triangle 7 2 6.21119
+rectangle 1 15
+circle 9
+circle 3
+triangle 10 10 13.64
+circle 9
+rectangle 9 18
+triangle 7 4 6.4979
+triangle 5 5 5.37299
+rectangle 4 1
+rectangle 5 10
+rectangle 3 20
+triangle 5 8 7.76727
+triangle 6 13 7.76912
+rectangle 10 7
+triangle 1 8 7.00017
+triangle 5 4 5.95256
+circle 3
+triangle 1 2 1.32813
+rectangle 10 7
+triangle 1 3 2.00023
+triangle 2 2 1.65877
+triangle 8 7 9.26847
+circle 4
+rectangle 6 14
+circle 3
+circle 10
+rectangle 7 17
+triangle 4 6 5.76584
+rectangle 3 20
+triangle 10 1 9.40285
+rectangle 9 20
+triangle 9 1 8.72581
+circle 2
+circle 1
+rectangle 3 12
+rectangle 4 20
+triangle 9 12 5.40717
+triangle 8 1 7.45623
+rectangle 7 18
+circle 8
+circle 7
+rectangle 3 18
+rectangle 3 11
+rectangle 10 14
+rectangle 8 10
+triangle 8 15 9.24491
+rectangle 5 20
+rectangle 2 17
+circle 7
+rectangle 4 14
+rectangle 1 16
+triangle 9 14 7.38222
+triangle 5 3 4.09789
+triangle 6 3 6.66121
+rectangle 7 7
+circle 4
+triangle 2 2 1.69047
+circle 1
+circle 6
+rectangle 8 19
+triangle 2 1 1.40754
+triangle 1 10 9.0735
+triangle 9 2 7.01914
+circle 9
+triangle 9 5 9.82814
+circle 2
+triangle 8 9 11.3995
+circle 7
+triangle 3 15 12.402
+triangle 10 4 8.78722
+circle 1
+circle 3
+triangle 2 1 2.17278
+rectangle 6 12
+rectangle 3 14
+circle 9
+rectangle 5 17
+rectangle 4 8
+circle 4
+triangle 7 3 4.09532
+circle 8
+rectangle 1 14
+circle 6
+rectangle 10 12
+circle 10
+triangle 1 2 1.90576
+circle 9
+circle 7
+circle 1
+rectangle 3 15
+rectangle 7 19
+circle 5
+rectangle 9 11
+circle 1
+rectangle 5 17
+triangle 2 13 11.904
+rectangle 8 10
+rectangle 10 16
+rectangle 1 12
+triangle 5 8 8.34543
+triangle 8 10 5.73896
+circle 7
+circle 8
+rectangle 5 6
+circle 7
+rectangle 1 12
+circle 2
+circle 4
+rectangle 1 10
+rectangle 5 8
+circle 10
+circle 2
+circle 2
+circle 3
+rectangle 8 18
+triangle 10 8 6.15778
+rectangle 3 1
+rectangle 10 17
+circle 2
+circle 1
+triangle 8 1 8.06226
+rectangle 9 1
+circle 2
+triangle 3 2 1.6803
+triangle 7 9 8.18535
+rectangle 7 14
+rectangle 1 8
+circle 1
+circle 8
+rectangle 4 2
+rectangle 9 20
+triangle 10 13 13.2599
+triangle 8 2 6.17458
+rectangle 9 4
+triangle 9 14 11.0387
+triangle 2 14 13.3799
+circle 10
+circle 2
+triangle 4 11 11.3049
+circle 5
+circle 6
+rectangle 8 18
+triangle 3 9 6.19351
+circle 4
+rectangle 10 6
+rectangle 9 12
+circle 7
+triangle 5 13 13.3475
+circle 8
+circle 10
+circle 10
+circle 1
+rectangle 5 12
+triangle 2 10 8.12144
+circle 5
+rectangle 8 10
+rectangle 10 7
+circle 6
+circle 7
+rectangle 7 17
+circle 1
+triangle 6 8 9.99999
+rectangle 8 10
+rectangle 2 10
+rectangle 10 2
+rectangle 1 13
+rectangle 1 11
+circle 9
+circle 4
+triangle 1 5 4.00019
+triangle 10 8 11.4339
+circle 5
+rectangle 1 11
+rectangle 2 12
+rectangle 3 14
+triangle 1 5 4.08218
+triangle 8 1 7.09812
+triangle 10 1 9.22102
+rectangle 8 17
+circle 8
+triangle 4 9 6.9207
+triangle 4 3 2.72901
+circle 2
+circle 7
+circle 1
+circle 10
+circle 8
+rectangle 7 6
+circle 1
+triangle 1 13 12.0277
+triangle 1 4 3.02019
+rectangle 10 11
+triangle 10 12 3.33602
+triangle 9 11 14.0906
+circle 4
+triangle 8 3 5.05875
+rectangle 7 20
+rectangle 2 10
+triangle 5 15 15.8114
+rectangle 6 18
+triangle 10 8 2.00608
+triangle 2 13 11.9346
+circle 10
+rectangle 5 18
+rectangle 10 4
+triangle 6 13 9.63239
+triangle 10 7 5.97809
+rectangle 2 11
+circle 9
+triangle 6 14 8.55294
+circle 1
+rectangle 1 9
+circle 7
+circle 5
+rectangle 7 10
+rectangle 3 11
+circle 5
+circle 8
+triangle 5 10 5.28871
+circle 9
+circle 9
+circle 4
+rectangle 7 6
+triangle 6 2 5.39483
+circle 9
+rectangle 7 14
+rectangle 1 14
+rectangle 8 16
+rectangle 3 13
+circle 6
+circle 5
+rectangle 1 2
+rectangle 6 15
+circle 8
+circle 10
+rectangle 5 4
+circle 7
+rectangle 9 5
+rectangle 6 11
+rectangle 9 11
+circle 1
+triangle 10 9 8.96355
+triangle 6 12 6.34645
+circle 6
+circle 5
+circle 6
+rectangle 7 18
+rectangle 9 19
+rectangle 8 15
+circle 10
+rectangle 8 20
+triangle 6 5 3.61688
+rectangle 1 13
+circle 8
+rectangle 9 8
+triangle 4 10 6.19486
+rectangle 6 17
+rectangle 5 4
+triangle 10 10 1.39513
+circle 3
+triangle 8 14 11.8869
+circle 6
+circle 7
+rectangle 6 10
+rectangle 10 11
+triangle 7 4 3.61631
+triangle 5 11 6.13768
+circle 4
+rectangle 5 9
+circle 10
+rectangle 7 13
+circle 2
+circle 7
+triangle 4 3 4.91552
+triangle 7 3 5.12857
+circle 4
+circle 9
+triangle 8 14 9.94323
+circle 3
+rectangle 8 15
+circle 10
+triangle 8 4 8.49708
+circle 7
+rectangle 9 10
+circle 1
+triangle 5 14 11.6938
+circle 3
+circle 10
+triangle 5 14 14.5339
+triangle 4 11 10.0602
+circle 3
+rectangle 3 15
+rectangle 6 19
+triangle 1 1 0.364471
+rectangle 5 5
+triangle 10 13 8.87964
+triangle 9 3 8.8754
+rectangle 1 10
+rectangle 3 7
+triangle 1 8 7.18201
+circle 4
+circle 4
+rectangle 3 12
+rectangle 9 18
+circle 1
+triangle 3 3 1.19621
+rectangle 3 15
+triangle 4 4 3.75577
+rectangle 3 19
+rectangle 5 1
+circle 1
+circle 4
+triangle 3 1 3.16228
+circle 2
+circle 8
+rectangle 3 18
+triangle 1 5 4.17472
+triangle 5 6 6.4394
+circle 5
+triangle 5 9 4.36654
+rectangle 8 6
+circle 7
+circle 3
+rectangle 8 7
+triangle 7 11 4.07259
+circle 6
+rectangle 9 5
+rectangle 7 11
+circle 7
+rectangle 8 5
+triangle 3 8 8.34576
+circle 10
+rectangle 7 3
+circle 3
+triangle 10 2 8.87847
+circle 7
+rectangle 2 3
+triangle 4 11 10.964
+circle 8
+circle 9
+circle 4
+circle 2
+rectangle 9 14
+circle 6
+circle 6
+triangle 5 11 7.85717
+triangle 2 14 12.2517
+rectangle 8 7
+circle 8
+triangle 3 10 10.2379
+triangle 6 1 5.32615
+rectangle 4 14
+rectangle 3 15
+rectangle 4 2
+circle 3
+triangle 8 2 6.03274
+circle 8
+circle 9
+triangle 1 6 5.51945
+rectangle 1 10
+circle 6
+triangle 3 4 2.05314
+rectangle 1 15
+triangle 1 10 9.43206
+triangle 1 12 11.1452
+rectangle 8 5
+triangle 2 14 12.0089
+triangle 6 9 5.64755
+rectangle 6 2
+rectangle 6 8
+rectangle 6 9
+circle 5
+rectangle 8 19
+rectangle 5 2
+rectangle 8 17
+rectangle 10 9
+triangle 5 9 9.26036
+circle 6
+triangle 2 7 6.97279
+circle 5
+rectangle 3 14
+triangle 9 10 12.7352
+rectangle 5 16
+rectangle 9 13
+rectangle 1 20
+triangle 10 7 6.46171
+rectangle 10 9
+circle 9
+circle 2
+circle 10
+circle 3
+circle 7
+rectangle 10 10
+rectangle 3 7
+rectangle 5 19
+circle 9
+triangle 9 14 6.22329
+rectangle 10 5
+rectangle 9 16
+triangle 7 2 5.53518
+triangle 6 5 1.07059
+triangle 4 7 3.0507
+rectangle 9 17
+triangle 1 13 12.7436
+rectangle 5 14
+circle 9
+triangle 1 8 7.73246
+rectangle 7 7
+circle 5
+triangle 4 3 1.75354
+triangle 7 13 6.32275
+triangle 2 2 2.1492
+rectangle 2 16
+circle 2
+triangle 6 9 9.33976
+triangle 8 12 8.22071
+triangle 6 11 5.0718
+triangle 10 8 3.07439
+circle 6
+circle 2
+triangle 6 12 9.55744
+triangle 3 4 4.42732
+circle 4
+rectangle 2 10
+circle 7
+circle 4
+triangle 10 5 5.57052
+rectangle 8 9
+rectangle 5 18
+triangle 6 5 1.74483
+circle 10
+circle 1
+circle 6
+triangle 8 1 7.02097
+triangle 3 1 2.1573
+rectangle 6 11
+triangle 7 8 9.67219
+triangle 6 14 8.92974
+triangle 1 9 8.1591
+rectangle 8 2
+rectangle 8 20
+triangle 7 6 3.29126
+triangle 9 10 4.38372
+circle 9
+circle 8
+rectangle 4 16
+rectangle 4 9
+rectangle 5 8
+rectangle 8 15
+circle 8
+circle 8
+rectangle 2 1
+circle 6
+rectangle 7 9
+rectangle 5 8
+rectangle 6 8
+triangle 1 9 8.544
+triangle 7 1 6.55744
+circle 7
+rectangle 3 14
+triangle 9 1 8.00428
+triangle 8 10 11.9051
+triangle 8 11 9.1679
+circle 4
+rectangle 8 3
+triangle 9 11 12.2782
+circle 4
+triangle 2 11 9.98812
+triangle 7 2 6.58964
+rectangle 6 9
+triangle 2 10 9.40057
+circle 3
+rectangle 2 14
+rectangle 8 14
+triangle 3 13 12.1976
+circle 10
+rectangle 9 16
+rectangle 8 9
+triangle 2 2 0.66019
+rectangle 7 7
+rectangle 5 3
+triangle 6 5 6.28473
+circle 5
+rectangle 6 13
+circle 9
+circle 4
+rectangle 5 9
+rectangle 6 6
+circle 10
+rectangle 9 16
+triangle 6 5 4.98909
+triangle 6 2 4.64919
+circle 1
+triangle 10 3 7.09303
+rectangle 2 5
+rectangle 10 8
+circle 5
+triangle 7 7 2.31066
+rectangle 7 18
+circle 7
+triangle 10 3 7.06481
+circle 7
+circle 4
+rectangle 7 6
+triangle 10 9 3.13206
+rectangle 4 15
+triangle 6 1 5.02615
+rectangle 6 19
+rectangle 9 17
+circle 2
+rectangle 4 5
+triangle 5 5 4.84809
+circle 6
+rectangle 5 5
+rectangle 10 3
+rectangle 9 17
+triangle 9 10 4.85473
+triangle 7 4 6.70308
+rectangle 3 18
+circle 9
+triangle 2 10 8.00951
+circle 2
+circle 9
+triangle 8 1 7.05571
+circle 6
+circle 6
+rectangle 8 9
+rectangle 5 5
+rectangle 7 5
+rectangle 4 2
+triangle 5 15 14.7057
+circle 8
+triangle 6 4 4.5287
+triangle 1 7 6.00869
+triangle 2 5 4.67254
+circle 8
+triangle 2 5 5.28708
+rectangle 8 8
+rectangle 9 18
+triangle 5 1 4.53361
+triangle 1 10 9.65326
+circle 3
+rectangle 10 12
+rectangle 2 18
+rectangle 7 6
+circle 8
+triangle 7 10 11.2738
+triangle 3 13 10.0006
+rectangle 5 13
+triangle 10 7 12.0047
+rectangle 3 6
+circle 9
+rectangle 9 20
+triangle 2 14 12.6113
+triangle 7 5 2.06552
+rectangle 4 2
+triangle 4 13 9.74337
+triangle 6 3 5.71728
+rectangle 3 12
+circle 3
+triangle 6 15 9.21593
+circle 7
+triangle 3 2 2.40379
+rectangle 1 6
+circle 6
+circle 4
+triangle 2 1 1.32813
+rectangle 3 19
+triangle 6 9 10.5521
+circle 5
+triangle 10 6 9.33764
+rectangle 10 12
+rectangle 4 12
+rectangle 10 14
+circle 4
+rectangle 3 4
+rectangle 2 15
+rectangle 7 10
+rectangle 1 17
+triangle 3 1 2.09726
+triangle 1 9 8.28392
+triangle 6 10 5.57186
+circle 8
+circle 8
+triangle 4 15 11.2093
+triangle 8 2 7.51879
+circle 9
+rectangle 10 14
+triangle 8 1 7.34067
+circle 9
+rectangle 10 4
+triangle 5 9 5.84147
+rectangle 3 19
+rectangle 6 1
+triangle 10 14 6.65865
+triangle 5 4 4.51646
+circle 5
+triangle 9 2 8.90889
+circle 10
+rectangle 4 2
+circle 10
+triangle 8 14 7.33532
+rectangle 6 2
+rectangle 6 7
+rectangle 2 20
+triangle 4 4 5.65685
+triangle 1 5 4.36502
+circle 8
+triangle 8 2 6.01459
+triangle 7 9 11.0096
+triangle 6 1 5.0945
+triangle 5 2 3.63865
+rectangle 1 1
+rectangle 3 17
+triangle 8 8 6.25169
+circle 10
+rectangle 2 19
+rectangle 3 13
+rectangle 7 20
+triangle 10 9 8.67171
+rectangle 9 17
+circle 9
+rectangle 5 18
+circle 8
+circle 1
+circle 5
+rectangle 5 9
+rectangle 2 15
+rectangle 5 5
+circle 1
+triangle 1 11 10.4436
+circle 10
+rectangle 7 4
+rectangle 5 13
+rectangle 7 1
+circle 10
+triangle 9 14 5.09499
+circle 2
+rectangle 10 17
+triangle 9 5 7.89728
+circle 5
+circle 8
+rectangle 4 18
+circle 8
+circle 8
+rectangle 7 11
+triangle 9 13 14.1897
+circle 2
+rectangle 6 1
+circle 5
+circle 8
+circle 6
+triangle 10 10 5.34476
+rectangle 1 4
+triangle 1 11 10.871
+triangle 4 10 8.9264
+circle 2
+rectangle 8 13
+circle 10
+rectangle 5 19
+circle 7
+rectangle 10 12
+triangle 6 3 5.24851
+rectangle 9 2
+rectangle 5 2
+triangle 2 10 9.57284
+circle 7
+triangle 3 15 15.1423
+rectangle 5 19
+rectangle 4 9
+circle 7
+circle 1
+circle 4
+circle 7
+triangle 7 2 5.06082
+rectangle 9 20
+rectangle 4 2
+triangle 5 4 4.11429
+rectangle 10 16
+rectangle 3 11
+rectangle 4 1
+circle 5
+triangle 3 8 7.99006
+triangle 10 15 13.7405
+triangle 10 4 6.83505
+triangle 8 9 5.75247
+circle 2
+circle 3
+circle 2
+triangle 3 2 1.23464
+circle 4
+triangle 9 13 11.6856
+rectangle 4 15
+rectangle 5 18
+rectangle 2 12
+circle 10
+circle 6
+triangle 6 3 3.17322
+rectangle 10 16
+rectangle 10 3
+circle 3
+triangle 6 10 4.2667
+rectangle 9 4
+triangle 5 5 5.37299
+rectangle 3 20
+triangle 8 1 7.06199
+circle 7
+circle 1
+rectangle 6 2
+rectangle 9 11
+rectangle 3 3
+triangle 4 9 8.78374
+circle 2
+circle 5
+circle 6
+triangle 4 11 9.57479
+circle 4
+circle 10
+triangle 7 13 11.0252
+rectangle 2 13
+rectangle 7 11
+rectangle 10 12
+triangle 8 6 5.2486
+circle 10
+circle 10
+circle 3
+triangle 5 1 4.1641
+triangle 6 2 5.02236
+circle 5
+circle 1
+circle 10
+circle 1
+triangle 5 9 4.20161
+triangle 9 5 8.75778
+triangle 6 15 9.01369
+circle 4
+circle 8
+triangle 6 13 8.04911
+circle 10
+triangle 8 14 8.61948
+rectangle 5 17
+rectangle 7 19
+rectangle 5 6
+circle 4
+triangle 7 14 7.95437
+triangle 1 6 5.73548
+triangle 7 13 10.0505
+rectangle 7 10
+rectangle 7 10
+circle 3
+circle 5
+rectangle 8 8
+triangle 10 12 13.3359
+circle 10
+circle 8
+triangle 2 9 7.3153
+circle 2
+rectangle 5 19
+triangle 2 8 6.26407
+rectangle 4 16
+circle 5
+circle 6
+circle 9
+triangle 6 8 6.49813
+circle 7
+rectangle 4 7
+triangle 4 4 0.418687
+circle 9
+circle 8
+circle 7
+rectangle 7 15
+triangle 7 1 6.30564
+triangle 2 15 13.6323
+rectangle 6 13
+triangle 7 4 7.49931
+triangle 9 5 5.29695
+rectangle 3 1
+triangle 1 2 1.47363
+circle 8
+circle 7
+circle 4
+rectangle 3 14
+triangle 8 9 9.90546
+rectangle 9 2
+triangle 5 2 3.03227
+triangle 9 10 5.63677
+rectangle 5 12
+rectangle 8 11
+rectangle 4 9
+rectangle 9 17
+rectangle 9 13
+circle 5
+circle 8
+rectangle 4 14
+circle 4
+circle 3
+rectangle 6 4
+triangle 1 10 9.26854
+rectangle 3 6
+triangle 5 6 4.82087
+circle 1
+circle 9
+circle 6
+rectangle 6 5
+circle 5
+rectangle 8 5
+triangle 4 9 9.32628
+circle 3
+triangle 6 4 5.2915
+circle 3
+rectangle 9 18
+rectangle 8 2
+triangle 3 12 10.9687
+rectangle 7 2
+circle 4
+triangle 8 7 9.96747
+circle 10
+rectangle 7 9
+circle 4
+circle 2
+triangle 6 7 3.50055
+triangle 7 1 6.72396
+rectangle 1 15
+rectangle 8 6
+rectangle 10 20
+rectangle 8 13
+circle 3
+triangle 8 3 5.5334
+rectangle 4 19
+triangle 6 14 10.5428
+circle 8
+circle 3
+circle 7
+triangle 7 3 5.82321
+circle 9
+rectangle 1 10
+circle 2
+circle 3
+circle 9
+circle 3
+rectangle 6 8
+rectangle 7 2
+triangle 1 6 5.55153
+circle 3
+rectangle 8 14
+rectangle 6 2
+triangle 10 14 6.65865
+rectangle 6 2
+circle 7
+triangle 2 3 3.33508
+circle 5
+rectangle 3 10
+rectangle 10 7
+triangle 1 1 1.14715
+rectangle 2 1
+rectangle 4 12
+triangle 1 3 3.01021
+rectangle 6 3
+triangle 2 10 8.84808
+triangle 5 2 4.15262
+triangle 5 4 5.77647
+rectangle 3 18
+rectangle 8 16
+rectangle 1 6
+rectangle 2 10
+triangle 2 6 5.05534
+triangle 1 9 8.74286
+rectangle 6 14
+circle 1
+circle 7
+rectangle 4 1
+triangle 10 6 9.43992
+triangle 8 12 4.05804
+circle 8
+rectangle 4 8
+triangle 4 1 3.03398
+circle 3
+rectangle 1 15
+triangle 5 14 14.5339
+rectangle 2 13
+triangle 9 2 7.1848
+triangle 6 12 11.743
+triangle 8 8 5.20909
+circle 8
+circle 9
+rectangle 2 14
+circle 6
+triangle 9 15 6.40005
+rectangle 3 3
+triangle 10 3 7.3612
+triangle 8 5 6.65316
+rectangle 6 3
+circle 9
+triangle 9 1 8.10472
+rectangle 3 8
+triangle 6 3 5.76884
+circle 5
+triangle 2 13 11.0291
+rectangle 5 19
+circle 7
+rectangle 3 1
+triangle 7 6 6.36292
+rectangle 6 9
+circle 2
+circle 1
+circle 1
+circle 9
+triangle 6 10 5.39251
+triangle 1 7 6.00869
+rectangle 9 10
+triangle 3 11 10.7309
+rectangle 4 10
+triangle 7 8 4.12277
+circle 3
+rectangle 2 20
+rectangle 5 3
+rectangle 1 12
+circle 6
+rectangle 7 10
+circle 6
+rectangle 7 5
+triangle 5 15 13.2288
+circle 6
+rectangle 2 18
+triangle 8 3 7.1039
+circle 7
+rectangle 9 15
+triangle 8 13 6.02761
+rectangle 4 5
+rectangle 9 18
+rectangle 6 20
+rectangle 8 3
+rectangle 2 12
+triangle 6 12 12.5488
+rectangle 3 17
+rectangle 7 20
+triangle 6 13 10.7481
+triangle 8 5 3.15989
+triangle 10 6 7.67238
+circle 7
+rectangle 4 16
+triangle 9 12 9.43751
+rectangle 3 17
+circle 2
+rectangle 1 2
+triangle 3 2 1.18697
+triangle 4 13 9.93882
+triangle 1 11 10.0015
+circle 2
+triangle 6 11 5.81097
+circle 6
+circle 9
+circle 4
+rectangle 10 15
+rectangle 4 8
+triangle 2 1 1.73205
+rectangle 9 12
+circle 2
+rectangle 8 12
+circle 4
+rectangle 7 3
+circle 1
+rectangle 3 18
+circle 10
+circle 6
+rectangle 9 17
+triangle 6 1 5.12001
+circle 7
+circle 2
+rectangle 1 1
+rectangle 1 7
+rectangle 1 19
+rectangle 3 6
+circle 7
+rectangle 6 4
+triangle 10 11 13.0962
+circle 3
+rectangle 3 1
+triangle 3 10 8.29772
+circle 6
+rectangle 3 18
+triangle 10 8 11.072
+rectangle 3 18
+triangle 4 13 12.0847
+rectangle 5 17
+circle 6
+rectangle 3 4
+rectangle 10 5
+circle 2
+triangle 6 2 5.15552
+rectangle 1 3
+triangle 9 6 3.02457
+circle 3
+rectangle 2 11
+circle 8
+rectangle 4 14
+circle 9
+rectangle 1 1
+circle 2
+rectangle 9 4
+circle 9
+rectangle 9 17
+rectangle 4 17
+circle 7
+circle 10
+triangle 9 7 9.09942
+rectangle 9 4
+circle 6
+rectangle 8 4
+triangle 9 7 4.44948
+triangle 4 11 7.79678
+triangle 2 15 13.3887
+circle 3
+triangle 2 11 9.07232
+circle 5
+circle 2
+triangle 7 12 7.67002
+rectangle 10 8
+circle 5
+circle 8
+triangle 8 6 6.18808
+rectangle 4 8
+triangle 10 4 7.10407
+rectangle 5 6
+circle 2
+circle 10
+rectangle 1 14
+triangle 3 10 7.06481
+rectangle 2 1
+rectangle 6 16
+circle 4
+circle 6
+circle 1
+triangle 4 9 7.25757
+circle 9
+rectangle 1 1
+circle 9
+rectangle 2 12
+circle 5
+triangle 5 6 6.7432
+circle 9
+circle 1
+circle 6
+circle 4
+triangle 6 9 4.3725
+rectangle 7 11
+circle 8
+circle 3
+triangle 1 8 7.64802
+circle 6
+rectangle 6 1
+rectangle 9 5
+circle 7
+circle 1
+circle 8
+circle 3
+triangle 3 1 2.78431
+circle 2
+circle 2
+rectangle 10 18
+circle 4
+rectangle 9 15
+triangle 6 3 6.47011
+circle 7
+circle 2
+triangle 1 10 9.31976
+circle 8
+rectangle 10 2
+rectangle 9 4
+circle 7
+rectangle 6 9
+rectangle 6 18
+triangle 3 15 12.4613
+circle 4
+rectangle 5 5
+rectangle 9 2
+rectangle 9 16
+circle 8
+circle 3
+rectangle 3 3
+triangle 3 3 0.104714
+rectangle 9 7
+rectangle 10 8
+triangle 5 12 9.33596
+triangle 5 10 8.66025
+circle 6
+triangle 5 12 7.0636
+rectangle 4 18
+triangle 5 7 5.98959
+rectangle 4 7
+circle 8
+circle 9
+triangle 6 10 5.94639
+triangle 5 9 6.33862
+rectangle 7 2
+triangle 1 3 3.09539
+circle 5
+circle 9
+rectangle 4 20
+circle 9
+circle 3
+circle 8
+triangle 2 13 11.0359
+triangle 8 11 4.67072
+triangle 7 8 4.73181
+circle 4
+circle 8
+circle 7
+triangle 10 15 16.0473
+circle 7
+rectangle 8 13
+circle 10
+triangle 6 4 2.85479
+triangle 10 15 7.44055
+rectangle 10 12
+circle 9
+circle 9
+circle 10
+triangle 2 9 7.60463
+circle 3
+circle 10
+triangle 7 14 7.52281
+rectangle 6 15
+circle 9
+rectangle 5 11
+circle 7
+triangle 7 13 10.5367
+circle 6
+circle 2
+circle 8
+circle 2
+triangle 8 5 5.26464
+circle 10
+triangle 2 4 4.34556
+rectangle 3 6
+triangle 4 4 3.93939
+triangle 9 12 7.71585
+circle 8
+rectangle 10 4
+triangle 5 10 9.61473
+circle 1
+triangle 5 15 10.0919
+triangle 2 2 0.728941
+rectangle 2 2
+rectangle 3 19
+rectangle 8 9
+circle 2
+circle 7
+circle 9
+circle 5
+triangle 4 14 11.7695
+triangle 3 1 2.1573
+triangle 8 4 4.64038
+circle 5
+circle 9
+rectangle 10 16
+triangle 4 14 14.2211
+triangle 3 4 1.11066
+rectangle 1 9
+circle 7
+rectangle 10 18
+rectangle 1 14
+triangle 4 9 9.84885
+rectangle 1 6
+circle 4
+rectangle 8 19
+triangle 6 5 1.00456
+rectangle 3 2
+rectangle 6 20
+circle 7
+triangle 4 1 3.93364
+circle 10
+triangle 9 4 7.60171
+circle 7
+triangle 7 9 4.56955
+circle 9
+circle 1
+circle 2
+rectangle 9 4
+circle 2
+triangle 7 9 2.51296
+circle 1
+circle 10
+rectangle 8 18
+rectangle 5 19
+circle 10
+triangle 9 1 8.45103
+circle 5
+triangle 4 9 5.0011
+triangle 3 2 2.19454
+circle 1
+triangle 9 12 12.8632
+circle 7
+triangle 1 11 10.3714
+rectangle 10 14
+circle 3
+rectangle 10 19
+triangle 1 8 7.54983
+rectangle 8 10
+rectangle 5 12
+triangle 6 13 9.24646
+circle 7
+triangle 3 8 5.64411
+rectangle 5 17
+triangle 1 13 12.2162
+triangle 6 2 5.7082
+triangle 9 12 5.40717
+rectangle 3 9
+circle 4
+triangle 9 6 10.641
+rectangle 6 9
+rectangle 4 12
+triangle 10 3 7.58749
+circle 1
+circle 7
+rectangle 4 14
+rectangle 7 12
+rectangle 4 8
+triangle 2 2 1.43347
+circle 7
+triangle 10 4 9.20551
+rectangle 10 2
+rectangle 1 8
+circle 1
+rectangle 5 6
+circle 7
+rectangle 3 14
+triangle 5 13 9.64215
+triangle 1 9 8.03824
+rectangle 9 2
+rectangle 4 14
+rectangle 5 20
+rectangle 1 2
+circle 3
+rectangle 5 17
+triangle 1 8 7.27493
+triangle 2 9 7.3804
+rectangle 5 9
+triangle 7 2 5.00171
+triangle 3 7 4.24919
+circle 9
+circle 9
+triangle 1 14 13.7071
+triangle 6 14 10.9355
+circle 2
+triangle 2 6 5.39483
+triangle 10 4 8.2374
+triangle 5 12 10.8759
+rectangle 8 20
+circle 9
+triangle 3 1 2.29607
+rectangle 4 11
+rectangle 6 2
+triangle 9 11 13.8433
+rectangle 2 17
+circle 8
+circle 10
+rectangle 9 7
+circle 10
+triangle 9 7 8.53212
+circle 6
+triangle 4 4 4.58861
+triangle 3 8 8.29557
+rectangle 3 14
+triangle 5 10 7.87832
+triangle 9 10 12.3629
+circle 9
+triangle 4 1 3.0073
+circle 8
+triangle 1 6 5.6843
+rectangle 4 18
+rectangle 4 14
+circle 8
+triangle 10 3 7.9396
+circle 4
+circle 3
+triangle 6 8 3.31517
+rectangle 8 1
+triangle 5 14 9.00118
+triangle 9 5 4.81192
+rectangle 9 1
+circle 10
+circle 4
+triangle 2 8 6.7953
+rectangle 5 14
+rectangle 6 5
+triangle 3 6 5.09145
+rectangle 10 19
+rectangle 4 18
+circle 6
+circle 4
+rectangle 3 19
+triangle 8 2 7.9021
+triangle 3 1 2.32459
+triangle 9 10 3.28735
+rectangle 5 2
+triangle 5 9 4.46459
+circle 1
+triangle 8 15 16.8763
+triangle 5 8 7.25815
+triangle 4 8 6.51012
+triangle 7 9 9.21116
+triangle 8 4 4.59213
+circle 2
+rectangle 6 10
+triangle 6 1 5.11119
+rectangle 4 8
+triangle 10 13 14.3562
+rectangle 5 13
+rectangle 4 15
+circle 2
+rectangle 9 18
+triangle 2 8 7.9021
+rectangle 3 19
+circle 6
+rectangle 8 3
+rectangle 1 11
+circle 2
+circle 10
+rectangle 8 3
+rectangle 3 6
+rectangle 6 19
+circle 5
+rectangle 7 7
+circle 3
+triangle 5 9 4.57201
+rectangle 1 13
+circle 4
+triangle 6 6 3.50846
+rectangle 3 6
+triangle 9 11 5.36892
+circle 8
+circle 1
+triangle 2 11 10.2481
+triangle 10 14 4.5983
+triangle 1 8 7.00278
+triangle 2 12 10.1582
+rectangle 4 13
+rectangle 10 18
+circle 6
+rectangle 9 6
+triangle 6 1 5.63379
+circle 9
+circle 4
+circle 7
+triangle 7 11 6.85639
+rectangle 7 18
+triangle 1 4 3.00992
+circle 1
+circle 1
+circle 2
+triangle 6 6 1.04587
+rectangle 10 3
+triangle 1 1 0.984846
+triangle 2 5 5.18743
+rectangle 8 16
+triangle 7 14 11.2714
+circle 3
+circle 9
+triangle 7 12 7.44194
+triangle 8 8 5.9937
+rectangle 1 2
+rectangle 3 1
+triangle 5 11 9.01907
+circle 9
+triangle 10 8 7.27012
+circle 1
+circle 9
+circle 10
+rectangle 6 8
+triangle 9 9 12.0443
+triangle 6 4 3.29484
+rectangle 8 2
+circle 2
+circle 4
+circle 4
+circle 4
+rectangle 10 1
+triangle 4 4 0.209415
+circle 2
+rectangle 8 15
+circle 1
+circle 1
+rectangle 7 15
+triangle 7 11 4.18315
+circle 7
+rectangle 2 15
+circle 6
+triangle 8 15 8.78024
+rectangle 2 2
+rectangle 3 7
+rectangle 10 15
+circle 8
+circle 10
+rectangle 5 18
+circle 2
+circle 8
+triangle 7 14 12.6127
+rectangle 5 7
+circle 9
+triangle 4 4 4.98011
+triangle 8 1 7.02097
+triangle 8 4 6.30265
+rectangle 9 5
+rectangle 7 6
+circle 9
+circle 1
+circle 9
+circle 7
+rectangle 2 3
+circle 3
+triangle 1 2 2.2204
+triangle 1 9 8.01707
+triangle 5 4 2.17892
+triangle 4 6 6.60794
+triangle 7 7 0.488593
+circle 7
+rectangle 4 15
+rectangle 10 11
+rectangle 3 10
+rectangle 8 11
+triangle 2 11 9.38608
+circle 9
+triangle 6 15 16.058
+rectangle 9 9
+circle 1
+triangle 5 1 4.51753
+circle 10
+triangle 8 3 7.15601
+circle 5
+circle 5
+rectangle 7 10
+triangle 7 1 6.17473
+triangle 7 1 6.43279
+rectangle 1 15
+triangle 7 6 1.20837
+circle 6
+triangle 4 15 12.2652
+circle 2
+circle 8
+triangle 8 3 6.39388
+rectangle 6 10
+rectangle 8 9
+circle 2
+triangle 8 9 11.617
+triangle 10 10 3.12869
+triangle 4 9 5.02732
+rectangle 1 18
+triangle 8 13 5.00317
+circle 2
+triangle 5 2 3.52409
+triangle 5 3 3.47266
+circle 6
+triangle 2 12 10.0058
+rectangle 5 15
+rectangle 10 6
+rectangle 9 1
+triangle 6 6 1.67008
+rectangle 10 12
+circle 2
+rectangle 6 15
+rectangle 7 12
+triangle 2 7 5.05118
+circle 9
+circle 7
+triangle 5 11 6.68913
+triangle 1 3 2.21624
+rectangle 8 12
+circle 6
+rectangle 3 18
+triangle 4 6 6.54531
+circle 2
+circle 1
+rectangle 1 15
+rectangle 8 12
+circle 10
+triangle 9 10 5.16816
+rectangle 7 9
+rectangle 5 8
+triangle 9 3 6.34766
+rectangle 9 3
+circle 8
+rectangle 7 17
+circle 4
+circle 5
+circle 2
+triangle 10 3 7.00587
+triangle 6 9 6.26987
+rectangle 6 13
+rectangle 1 4
+rectangle 9 5
+triangle 10 6 7.25541
+circle 6
+triangle 6 4 6.291
+circle 10
+rectangle 5 12
+triangle 2 8 6.56744
+triangle 2 3 1.74687
+circle 3
+circle 6
+rectangle 5 13
+circle 4
+triangle 8 8 5.86401
+circle 5
+rectangle 2 2
+circle 7
+triangle 5 10 5.86253
+triangle 3 11 9.50159
+rectangle 3 10
+circle 10
+triangle 6 5 1.44995
+circle 9
+circle 9
+rectangle 1 14
+circle 2
+rectangle 2 14
+triangle 7 7 7.62494
+rectangle 5 17
+triangle 3 1 2.33918
+circle 5
+circle 7
+circle 5
+circle 4
+circle 10
+circle 6
+rectangle 1 9
+rectangle 3 10
+rectangle 4 6
+rectangle 10 3
+triangle 8 9 3.52807
+triangle 3 8 5.97469
+triangle 10 6 10.4406
+rectangle 8 10
+circle 10
+circle 9
+rectangle 6 13
+rectangle 2 2
+rectangle 1 13
+circle 4
+circle 7
+circle 9
+circle 3
+rectangle 8 13
+triangle 10 4 9.76188
+triangle 7 6 8.30494
+triangle 8 15 11.4693
+rectangle 10 9
+triangle 6 2 4.73788
+triangle 9 9 4.96147
+rectangle 2 17
+triangle 4 6 5.76584
+circle 3
+rectangle 7 3
+circle 3
+rectangle 2 10
+triangle 5 12 12.5083
+circle 3
+triangle 3 1 2.02737
+circle 9
+rectangle 2 10
+circle 7
+rectangle 4 8
+rectangle 10 7
+rectangle 2 2
+circle 3
+triangle 9 6 6.16553
+triangle 8 14 7.44082
+triangle 2 11 9.14623
+rectangle 6 5
+circle 1
+circle 9
+circle 4
+circle 9
+triangle 6 14 10.2571
+circle 6
+circle 2
+circle 4
+triangle 3 12 12.3184
+triangle 7 5 3.41021
+triangle 6 10 9.33764
+rectangle 10 14
+triangle 6 11 5.00803
+triangle 4 6 3.69668
+triangle 7 1 6.00869
+triangle 8 14 7.33532
+circle 6
+triangle 1 15 14.0163
+rectangle 9 18
+rectangle 4 1
+circle 1
+rectangle 3 3
+rectangle 5 2
+triangle 6 8 4.41448
+circle 4
+triangle 1 1 0.700414
+triangle 5 12 7.40765
+circle 2
+circle 7
+circle 4
+rectangle 8 15
+rectangle 3 5
+rectangle 6 20
+triangle 6 3 3.10828
+triangle 7 3 4.99034
+triangle 10 4 7.58233
+triangle 10 9 9.82319
+circle 4
+triangle 5 12 9.83779
+rectangle 3 2
+rectangle 2 18
+circle 1
+circle 7
+rectangle 6 7
+circle 10
+rectangle 3 12
+triangle 9 8 3.11195
+circle 9
+circle 7
+triangle 10 15 14.2471
+circle 5
+rectangle 7 1
+circle 1
+circle 5
+triangle 3 1 2.19177
+triangle 9 15 8.08877
+triangle 3 2 1.61484
+triangle 2 2 2.26562
+triangle 6 8 6.90757
+triangle 10 13 8.53085
+triangle 7 9 3.29616
+rectangle 8 13
+triangle 1 6 5.47235
+triangle 7 6 8.30494
+circle 5
+rectangle 8 1
+triangle 3 6 6.02418
+triangle 9 5 4.57201
+rectangle 3 4
+circle 3
+rectangle 2 11
+rectangle 1 7
+rectangle 1 18
+triangle 4 5 2.24683
+circle 2

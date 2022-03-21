@@ -1,0 +1,7 @@
+No. Circles = 685, Total Circle Area = 83773.6, Total Circle Perimeter = 23813.3
+No. Rectangles = 670, Total Rectangle Area = 39595, Total Rectangle Perimeter = 21828
+No. Triangles = 645, Total Triangle Area = 8679.02, Total Triangle Perimeter = 13002.5
+
+D:\Personal_Programming\CS Assignments\Debug\CS_Lab_Assignments.exe (process 20440) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
